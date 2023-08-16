@@ -1,21 +1,23 @@
-# Ingost - website for cleaning services company. <br/>
-*(our student 2nd project for a real customer after 8 weeks of studying HTML/CSS/SASS)*
+# Ingost - professional cleaning service
 
-Our team designed a website for a customer who provides cleaning services.
+<p>Business website for a cleaning service company with a responsive layout</p>
+<img width="700" alt="Website_screenshot" src="assets/images/screenshot_for_readme.png">
+<img width="700" alt="Website_screenshot" src="assets/images/screenshot_for_readme2.png">
 
-You may check the website following the link <br/>
-https://yanakin394.github.io/Ingost_Project/ <br/>
+## Getting started
+<p>Host the parent directory on the webserver</p>
 
-or<br/>
+## Technologies:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+</div>
 
+## Thanks to all Contributors
+[![Contributors](https://contrib.rocks/image?repo=yanakin394/Ingost_Project)](https://github.com/yanakin394/Ingost_Project/graphs/contributors)
+
+## Result
 https://almetevsk-uborka.ru <br/>
-
-## Technologies used: <br/>
-HTML, CSS, SCSS, Bootstrap 5.0 framework, BEM <br/>
-
-## Developer team: <br/>
-Dinara Knyazeva (Team Lead) https://github.com/DinaraKnyazeva, <br/>
-Yana Germatskaya https://github.com/yanakin394, <br/>
-Elena Bulavkina https://github.com/Sunkiti, <br/>
-Shahnoz ... https://github.com/Shahnoz18, <br/>
-Olga ... https://github.com/olkosti. <br/>
+https://yanakin394.github.io/Ingost_Project/ <br/>
